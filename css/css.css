@@ -3,41 +3,21 @@ body {
 }
 
 h1 {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 32px;
 }
 
 h2 {
-  font-family: 'Quicksand', sans-serif;
-}
-
-h3 {
-  font-family: 'Libre Barcode 128 Text', cursive;
-}
-
-h4 {
   font-family: 'Permanent Marker', cursive;
+  font-size: 24px;
 }
 
-h5 {
-  font-family: 'Caveat', cursive;
-}
-
-h6 {
-  font-family: 'Fredericka the Great', cursive;
-}
-
-#seven {
-  font-family: 'East Sea Dokdo', cursive;
-}
-
-#eight {
-  font-family: 'Poor Story', cursive;
-}
-
-#nine {
-  font-family: 'Dokdo', cursive;
-}
-
-#ten {
+p {
   font-family: 'Patrick Hand SC', cursive;
+  font-size: 18px;
+}
+
+#accent {
+  font-family: 'Libre Barcode 128 Text', cursive;
+  font-size: 18px;
 }
